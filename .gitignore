@@ -137,6 +137,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/data/BGRI21_150
 
 # mypy
 .mypy_cache/
